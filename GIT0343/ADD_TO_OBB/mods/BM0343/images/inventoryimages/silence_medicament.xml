@@ -1,0 +1,12 @@
+<Atlas>
+	<Texture filename="silence_medicament.tex" />
+    <Elements>
+        <Element name="medicament_corrode.tex" u1="0" u2="0.25" v1="0.75" v2="1" />
+        <Element name="medicament_firing.tex" u1="0.25" u2="0.5" v1="0.75" v2="1" />
+        <Element name="medicament_frozen.tex" u1="0.5" u2="0.75" v1="0.75" v2="1" />
+        <Element name="medicament_heal.tex" u1="0" u2="0.25" v1="0.5" v2="0.75" />
+        <Element name="medicament_intensify.tex" u1="0.25" u2="0.5" v1="0.5" v2="0.75" />
+        <Element name="medicament_light.tex" u1="0.5" u2="0.75" v1="0.5" v2="0.75" />
+        <Element name="medicament_regrow.tex" u1="0" u2="0.25" v1="0.25" v2="0.5" />
+    </Elements>
+</Atlas>
