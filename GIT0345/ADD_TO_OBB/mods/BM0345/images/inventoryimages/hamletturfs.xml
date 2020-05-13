@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Atlas>
+	<Texture filename="hamletturfs.tex" />
+	<Elements>
+		<Element name="turf_cobbleroad.tex" u1="0.24709375" u2="0.4911875" v2="0.75290625" v1="0.5088125" variant="" />
+		<Element name="turf_deeprainforest.tex" u1="0.4931875" u2="0.73728125" v2="0.999" v1="0.75490625" variant="" />
+		<Element name="turf_fields.tex" u1="0.73928125" u2="0.983375" v2="0.999" v1="0.75490625" variant="" />
+		<Element name="turf_foundation.tex" u1="0.4931875" u2="0.73728125" v2="0.75290625" v1="0.5088125" variant="" />
+		<Element name="turf_gasjungle.tex" u1="0.73928125" u2="0.983375" v2="0.75290625" v1="0.5088125" variant="" />
+		<Element name="turf_lawn.tex" u1="0.001" u2="0.24509375" v2="0.5068125" v1="0.26271875" variant="" />
+		<Element name="turf_moss.tex" u1="0.001" u2="0.24509375" v2="0.999" v1="0.75490625" variant="" />
+		<Element name="turf_pigruins.tex" u1="0.24709375" u2="0.4911875" v2="0.999" v1="0.75490625" variant="" />
+		<Element name="turf_rainforest.tex" u1="0.001" u2="0.24509375" v2="0.75290625" v1="0.5088125" variant="" />
+	</Elements>
+</Atlas>
