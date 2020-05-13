@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] local CONST = TD.CONST CONST.PREFAB_ALL = "MY_PREFAB" TD.default(TD.G, TD.CONST.PREFAB_ALL) 

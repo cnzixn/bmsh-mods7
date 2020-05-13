@@ -1,0 +1,1 @@
+_G = _G or GLOBAL _M = _M or env _G.setmetatable(env, { __index = function(t, k) return _G.rawget(_G, k) end }) 

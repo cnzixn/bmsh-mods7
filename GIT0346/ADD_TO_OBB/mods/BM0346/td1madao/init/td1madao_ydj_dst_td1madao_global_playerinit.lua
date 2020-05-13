@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] AddMinimapAtlas(TD.holder("images/map_icons/%s.xml")) AddModCharacter(TD.CHAR, "MALE") 

@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] TD.createFn("encode", function(obj)     if not obj then         obj = {}     end     local result = json.encode(obj)     return result end) TD.createFn("decode", function(str)     if not string.td1madao_notEmpty(str) then         str = "{}"     end     return json.decode(str) end) 

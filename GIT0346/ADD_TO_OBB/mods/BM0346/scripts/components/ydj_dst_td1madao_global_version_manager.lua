@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] local myComponent = Class(function(self, inst)     self.inst = inst end) return myComponent 

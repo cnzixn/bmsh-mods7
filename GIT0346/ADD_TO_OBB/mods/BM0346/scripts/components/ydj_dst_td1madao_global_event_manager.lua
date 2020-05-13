@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] local myComponent = Class(function(self, inst)     if not TD.isServer() then         return     end end) return myComponent 

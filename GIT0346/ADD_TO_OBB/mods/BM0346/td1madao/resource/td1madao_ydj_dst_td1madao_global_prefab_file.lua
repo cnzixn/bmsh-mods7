@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] PrefabFiles = {     TD.holder(),     TD.holder("%s_fx"),     TD.holder("%s_item") } 

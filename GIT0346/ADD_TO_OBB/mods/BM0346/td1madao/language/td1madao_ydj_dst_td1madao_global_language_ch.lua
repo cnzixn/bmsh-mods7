@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] td1madoImport("td1madao/language/td1madao_%s_global_language_ch_gbk.lua") td1madoImport("td1madao/language/td1madao_%s_global_language_ch_utf8.lua") 

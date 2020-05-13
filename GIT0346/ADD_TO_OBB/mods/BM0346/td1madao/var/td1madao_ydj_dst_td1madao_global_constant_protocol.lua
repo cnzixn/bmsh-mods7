@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] local CONST = TD.CONST CONST.CLIENT_FN_STR = "CLIENT_FN"  CONST.SERVER_FN_STR = "SERVER_FN"  CONST.NOTIFY_EVENT = "td1madao_global_mod_json"  TD.default(TD.G, CONST.CLIENT_FN_STR)  TD.default(TD.G, CONST.SERVER_FN_STR)  

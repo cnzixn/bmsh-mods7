@@ -1,0 +1,1 @@
+td1madoImport("td1madao/postinit/td1madao_%s_global_postinit_personal.lua")  td1madoImport("td1madao/postinit/td1madao_%s_global_postinit_group.lua")  td1madoImport("td1madao/postinit/td1madao_%s_global_postinit_common.lua")  

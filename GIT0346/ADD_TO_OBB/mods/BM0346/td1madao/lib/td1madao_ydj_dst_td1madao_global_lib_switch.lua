@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] TD.createFn("switch", function(switchName, fn)     local switch = TD.G[switchName]     if switch then         return     end     if TD.isFn(fn) then         fn()         TD.G[switchName] = true     end end) 

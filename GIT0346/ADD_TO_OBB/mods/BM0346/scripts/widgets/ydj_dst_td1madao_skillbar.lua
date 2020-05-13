@@ -1,0 +1,1 @@
+local TD = TD.td1madao["ydj_dst_td1madao"] local Button = require "widgets/button" return Class(Button, TD.empty) 

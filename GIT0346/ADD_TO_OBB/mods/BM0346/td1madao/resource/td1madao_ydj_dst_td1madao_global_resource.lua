@@ -1,0 +1,1 @@
+td1madoImport("td1madao/resource/td1madao_%s_global_asset.lua") td1madoImport("td1madao/resource/td1madao_%s_global_prefab_file.lua") td1madoImport("td1madao/resource/td1madao_%s_global_tech.lua") 
