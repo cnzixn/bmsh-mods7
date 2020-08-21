@@ -1,0 +1,127 @@
+return {
+  version = "1.1",
+  luaversion = "5.1",
+  orientation = "orthogonal",
+  width = 10,
+  height = 10,
+  tilewidth = 64,
+  tileheight = 64,
+  properties = {},
+  tilesets = {
+    {
+      name = "tiles",
+      firstgid = 1,
+      --filename = "samplelayout/layout_source/dont_starve/ground.tsx",
+      tilewidth = 64,
+      tileheight = 64,
+      spacing = 0,
+      margin = 0,
+      image = "../../../../../Users/Alia McCutcheon/Documents/tiled/tiles.png",
+      imagewidth = 512,
+      imageheight = 128,
+      properties = {},
+      tiles = {}
+    }
+  },
+  layers = {
+    {
+      type = "tilelayer",
+      name = "BG_TILES",
+      x = 0,
+      y = 0,
+      width = 10,
+      height = 10,
+      visible = true,
+      opacity = 1,
+      properties = {},
+      encoding = "lua",
+      data = {
+        11, 1, 1, 9, 1, 1, 9, 1, 1, 11,
+        1, 1, 1, 9, 1, 1, 9, 1, 1, 1,
+        1, 1, 1, 9, 1, 1, 9, 1, 1, 1,
+        1, 1, 1, 9, 1, 1, 9, 1, 1, 1,
+        9, 9, 9, 9, 9, 9, 9, 9, 9, 9,
+        1, 1, 1, 9, 1, 1, 9, 1, 1, 1,
+        9, 9, 9, 9, 9, 9, 9, 9, 9, 9,
+        1, 1, 1, 9, 1, 1, 9, 1, 1, 1,
+        1, 1, 1, 9, 1, 1, 9, 1, 1, 1,
+        11, 9, 9, 9, 9, 9, 9, 9, 9, 11
+      }
+    },
+    {
+      type = "objectgroup",
+      name = "FG_OBJECTS",
+      visible = true,
+      opacity = 1,
+      properties = {},
+      objects = {
+        {
+          name = "",
+          type = "zg_ut_axehouse2",
+          shape = "rectangle",
+          x = 393,
+          y = 391,
+          width = 44,
+          height = 54,
+          visible = true,
+          properties = {}
+        },
+        {
+          name = "",
+          type = "zg_ut_axehouse2",
+          shape = "rectangle",
+          x = 205,
+          y = 258,
+          width = 50,
+          height = 54,
+          visible = true,
+          properties = {}
+        },
+        {
+          name = "",
+          type = "zg_ut_axehouse2",
+          shape = "rectangle",
+          x = 394,
+          y = 271,
+          width = 52,
+          height = 28,
+          visible = true,
+          properties = {}
+        },
+        {
+          name = "",
+          type = "zg_ut_axehouse2",
+          shape = "rectangle",
+          x = 205,
+          y = 393,
+          width = 44,
+          height = 42,
+          visible = true,
+          properties = {}
+        },
+        {
+          name = "",
+          type = "zg_ut_axehouse2",
+          shape = "rectangle",
+          x = 395,
+          y = 573,
+          width = 44,
+          height = 54,
+          visible = true,
+          properties = {}
+        },
+        {
+          name = "",
+          type = "zg_ut_axehouse2",
+          shape = "rectangle",
+          x = 201,
+          y = 579,
+          width = 44,
+          height = 54,
+          visible = true,
+          properties = {}
+        }
+      }
+    }
+  }
+}
