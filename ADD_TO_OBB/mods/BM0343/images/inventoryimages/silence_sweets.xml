@@ -1,0 +1,15 @@
+<Atlas>
+	<Texture filename="silence_sweets.tex" />
+    <Elements>
+        <Element name="silence_sweets1.tex" u1="0" u2="0.25" v1="0.75" v2="1" />
+        <Element name="silence_sweets10.tex" u1="0.25" u2="0.5" v1="0.75" v2="1" />
+        <Element name="silence_sweets2.tex" u1="0.5" u2="0.75" v1="0.75" v2="1" />
+        <Element name="silence_sweets3.tex" u1="0" u2="0.25" v1="0.5" v2="0.75" />
+        <Element name="silence_sweets4.tex" u1="0.25" u2="0.5" v1="0.5" v2="0.75" />
+        <Element name="silence_sweets5.tex" u1="0.5" u2="0.75" v1="0.5" v2="0.75" />
+        <Element name="silence_sweets6.tex" u1="0" u2="0.25" v1="0.25" v2="0.5" />
+        <Element name="silence_sweets7.tex" u1="0.25" u2="0.5" v1="0.25" v2="0.5" />
+        <Element name="silence_sweets8.tex" u1="0.5" u2="0.75" v1="0.25" v2="0.5" />
+        <Element name="silence_sweets9.tex" u1="0" u2="0.25" v1="0" v2="0.25" />
+    </Elements>
+</Atlas>
