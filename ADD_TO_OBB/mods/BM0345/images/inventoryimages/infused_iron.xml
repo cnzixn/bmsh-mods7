@@ -1,0 +1,6 @@
+<Atlas>
+	<Texture filename="infused_iron.tex" />
+	<Elements>
+		<Element name="infused_iron.tex" u1="0" u2="1" v1="0" v2="1" />
+	</Elements>
+</Atlas>

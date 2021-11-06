@@ -1,0 +1,7 @@
+<Atlas>
+	<Texture filename="blunderbuss.tex" />
+    <Elements>
+<Element name="blunderbuss.tex" u1="0" u2="0.5" v1="0" v2="1" />
+<Element name="blunderbuss_loaded.tex" u1="0.5" u2="1" v1="0" v2="1" />
+    </Elements>
+</Atlas>
