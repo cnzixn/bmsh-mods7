@@ -1,0 +1,6 @@
+<Atlas>
+	<Texture filename="ydj_dst_td1madao_axe.tex" />
+	<Elements>
+		<Element name="ydj_dst_td1madao_axe7.tex" u1="0.0078125" u2="0.9921875" v1="0.0078125" v2="0.9921875" />
+	</Elements>
+</Atlas>
