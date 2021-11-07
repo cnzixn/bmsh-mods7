@@ -1,0 +1,1410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nameS",
+				"NAMES"
+			],
+			[
+				"pe",
+				"peach"
+			],
+			[
+				"IsRain",
+				"is_raining"
+			],
+			[
+				"NAMes",
+				"names"
+			],
+			[
+				"dmiu",
+				"DynamicMusic"
+			],
+			[
+				"ls",
+				"lanterns"
+			],
+			[
+				"pre",
+				"prefab"
+			],
+			[
+				"cold",
+				"cooldown"
+			],
+			[
+				"hung",
+				"Hunger"
+			],
+			[
+				"pis",
+				"pairs"
+			],
+			[
+				"gr",
+				"grow"
+			],
+			[
+				"gho",
+				"ghost"
+			],
+			[
+				"mk_",
+				"mk_cloud"
+			],
+			[
+				"post",
+				"pos_task"
+			],
+			[
+				"GetR",
+				"GetRandomMinMax"
+			],
+			[
+				"cloud",
+				"Cloud"
+			],
+			[
+				"ma",
+				"MakeInventoryFloatable"
+			],
+			[
+				"ha",
+				"hay"
+			],
+			[
+				"rech",
+				"recharge"
+			],
+			[
+				"mkma",
+				"mk_timerbuff_manager"
+			],
+			[
+				"iv",
+				"inventory"
+			],
+			[
+				"bu",
+				"bufffns"
+			],
+			[
+				"monk",
+				"monkey"
+			],
+			[
+				"mo",
+				"puella_mod_timescale"
+			],
+			[
+				"tick",
+				"TICK"
+			],
+			[
+				"das",
+				"hit_darkness"
+			],
+			[
+				"pmm",
+				"pmmm_sd_darkattack"
+			],
+			[
+				"wi",
+				"wilsonboating"
+			],
+			[
+				"wil",
+				"wilson"
+			],
+			[
+				"loca",
+				"lock_alpha_time"
+			],
+			[
+				"setdar",
+				"SetDarknessAttack"
+			],
+			[
+				"apmint",
+				"alpha_min_target"
+			],
+			[
+				"Fad",
+				"FadeIn"
+			],
+			[
+				"puel",
+				"puellaUI_sgdark"
+			],
+			[
+				"pcs",
+				"PickUpNormalShadow"
+			],
+			[
+				"uian",
+				"UIAnim"
+			],
+			[
+				"ches",
+				"CheckDistance"
+			],
+			[
+				"NAMe",
+				"name"
+			],
+			[
+				"fol",
+				"follower"
+			],
+			[
+				"folwe",
+				"followers"
+			],
+			[
+				"Timl",
+				"TimeLine"
+			],
+			[
+				"Be",
+				"BehaviorLine"
+			],
+			[
+				"Tim",
+				"TimeLine1"
+			],
+			[
+				"Til",
+				"TimeLine"
+			],
+			[
+				"Tl",
+				"TimeLine"
+			],
+			[
+				"co",
+				"cor"
+			],
+			[
+				"nigs",
+				"night_segs"
+			],
+			[
+				"huw",
+				"homura_weapon"
+			],
+			[
+				"att",
+				"attacker"
+			],
+			[
+				"an",
+				"ammoNum"
+			],
+			[
+				"hop",
+				"HomuraProjectile"
+			],
+			[
+				"loc",
+				"locomotor"
+			],
+			[
+				"trs",
+				"Transform"
+			],
+			[
+				"has",
+				"hasbuff"
+			],
+			[
+				"humw",
+				"HomuraWeapon"
+			],
+			[
+				"Co",
+				"Copy"
+			],
+			[
+				"new",
+				"newtable"
+			],
+			[
+				"nams",
+				"NAMES"
+			],
+			[
+				"nam",
+				"NAME"
+			],
+			[
+				"pek",
+				"previouskey"
+			],
+			[
+				"prot",
+				"projectile"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"pref",
+				"prefab"
+			],
+			[
+				"updat",
+				"UpdateTail"
+			],
+			[
+				"howo",
+				"HomuraWeapon"
+			],
+			[
+				"homura",
+				"homura_weapon_buff"
+			],
+			[
+				"buff",
+				"Buff"
+			],
+			[
+				"v",
+				"variety"
+			],
+			[
+				"ont",
+				"OnThrown"
+			],
+			[
+				"po",
+				"projectile"
+			],
+			[
+				"bufs",
+				"buffs"
+			],
+			[
+				"cab",
+				"canbeadd"
+			],
+			[
+				"hw",
+				"HomuraWeapon"
+			],
+			[
+				"how",
+				"HomuraWeapon"
+			],
+			[
+				"homw",
+				"homura_wrench"
+			],
+			[
+				"ho",
+				"homura_weapon_buff"
+			],
+			[
+				"hom",
+				"homura_weapon_buffs"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"se",
+				"SoundEmitter"
+			],
+			[
+				"l",
+				"lightfx"
+			],
+			[
+				"SP",
+				"SpawnPrefab"
+			],
+			[
+				"PU",
+				"PUELLA_MOD_STRINGS"
+			],
+			[
+				"spa",
+				"spawn_interval"
+			],
+			[
+				"ima",
+				"Image"
+			],
+			[
+				"soug",
+				"soulgem"
+			],
+			[
+				"SetS",
+				"SetString"
+			],
+			[
+				"witchqw",
+				"WITCH_QW"
+			],
+			[
+				"spwe",
+				"spawner_table"
+			],
+			[
+				"qw",
+				"qw_flowerspawner"
+			],
+			[
+				"So",
+				"AddSoundEmitter"
+			],
+			[
+				"en",
+				"entity"
+			],
+			[
+				"Ge",
+				"GetPlayer"
+			],
+			[
+				"f",
+				"followers"
+			],
+			[
+				"p",
+				"pairs"
+			],
+			[
+				"i",
+				"inst"
+			],
+			[
+				"Ch",
+				"CheckCanSpawn"
+			],
+			[
+				"CH",
+				"CheckTileCompatibility"
+			],
+			[
+				"Get",
+				"GetPosition"
+			],
+			[
+				"Fi",
+				"FindPos"
+			],
+			[
+				"pr",
+				"projectile"
+			],
+			[
+				"fun",
+				"function\tfunction"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scripts/prefabs/blackbear.lua",
+			"settings":
+			{
+				"buffer_size": 12185,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"matre",
+				"Material Theme: Activate theme"
+			],
+			[
+				"",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/anim",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/images",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/stategraphs"
+	],
+	"file_history":
+	[
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/aoecast_reticule.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/stategraphs/SGblackbear.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/nz_lance.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/monkey_king.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/yamaraja_boss.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_firefx.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modmain.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/myth_rhinodrill.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_striker.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_jgb.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_battle_flag.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/lavaarena_battle_fx.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/neza.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/ui.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/skinutil.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/peach_sapling.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/component.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/actions.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/prefabnamelist.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_pills.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/jgb_spawner.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modinfo.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/xzhat_mk.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/armors_mk.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/nz_ring.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/nz_wheel.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/sg.lua",
+		"/Users/mac/Downloads/client_log.txt",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/armors_nz.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/colouradder.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/speech_monkeyking_ch.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/speech_neza_ch.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/stewer_fur.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/aoespell.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/hat_mk.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/peachtrees.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_invbuff_manager.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/alchmy_fur.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_foods.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/images/monkey_king_item.xml",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_items.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/foods.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_cloud.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_cloudfxspawner.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_dynamicmusic.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/rechargeable.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/images/map_icons/mk_jgb.xml",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/yamarajabuff.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/shelf.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/monkeyfriend.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/images/avatars/avatar_monkey_king.tex",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/yamaraja_book.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/yamaraja_follower.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/images/inventoryimages/yamaraja_book.tex",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_timerbuff_manager.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/stategraphs/SGwerepig2.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/yamaraja_mist.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/modimport/fn.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/yamarajabuff_ent.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components-加密/mk_invbuff.lua",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/MyLua.sublime-build",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/untitled.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/aoeweapon_lunge.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_debuff.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_cloudpuff.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/peach_chop.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_clouddriver.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_cloud.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/bloomer.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/playervision.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/stategraphs/mk_sg.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/actions.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/widgets/mk_widgets.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_invbuff.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_debuffable.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/mk_buffs.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/components/mk_invbuffmanager.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/anim/anim.bin",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/monkey king/scripts/prefabs/monkey_king_none.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modinfo.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/stategraphs/SGmagicalgirls/SGkyouko.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/widgets/puellaUI_sgdark.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_qw.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/qw_spawner.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_tv.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_sd_sm.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/sd_darkness.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_bombs.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_qw_fx.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_rpg.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/widgets/puellaUI_skill3.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain/puella_fn.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/kyouko_spear.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/griefseed_fx.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/player_common_mod.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_tv_balls.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain/debugfunctions.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/stategraphs/SGmagicalgirls/SGhomura_1.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/homura_timemagic.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/qw_stemspawner.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain/ui.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/widgets/puellaUI_sgdark_util.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/widgets/blackcrack.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/deadtimer.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/soulgem.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/widgets/puellaUI_playerflash.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/kyouko.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/skill_homura.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain/actionsandstates.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_sd.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_pistol.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/witch_qw_sm.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_tab.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/purifier.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/griefseed.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain/API.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_weapon_buffs.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/homura_projectile.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/homura_weapon.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/ignoretimemagic.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_1.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/homura_ammo.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/sayaka.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/prefabs/homura_workdesk.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/scripts/components/homura_tech.lua",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/images/inventoryimages/homura_rpg.tex",
+		"/Users/mac/Library/Application Support/Steam/steamapps/common/dont_starve/dontstarve_steam.app/Contents/mods/Kyouko & Sayaka/modmain/bans.lua"
+	],
+	"find":
+	{
+		"height": 73.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reticule",
+			"shouldbw",
+			"shouldpo",
+			"spin_loop",
+			"pound",
+			"inst.CanGroundPound",
+			"inst.CanGroundPound ",
+			"ontimerdone",
+			"groundpounder",
+			"ontimerdone",
+			"GroundPound",
+			"hallo",
+			"hello",
+			"deer_fi",
+			"deer_fie",
+			"deer_ic",
+			"deer",
+			"lavaarena",
+			"fxassets",
+			"lava",
+			"player_su",
+			"superjump",
+			"recharge_me",
+			"recharge",
+			"rechargemeter",
+			"halloween_embers",
+			"set(",
+			"EnableCameraFocus",
+			":value()",
+			"idle",
+			"spin_loop",
+			"stopspi",
+			"GoToStandState",
+			"SGblackbear",
+			"cassoc",
+			"cassocl",
+			"black_bear",
+			"fly",
+			"adds",
+			"recha",
+			"inst",
+			"hit",
+			"addmini",
+			"[00:00:02]: ../mods/monkey king/modmain.lua(489,1) ###",
+			"AddStategraphActionHandler",
+			"dolong",
+			"DebugTime",
+			"label",
+			"= {}",
+			"={}",
+			"= {}",
+			"com",
+			"pickup",
+			"doshortact",
+			"dolongact",
+			"skill_boost_mk",
+			"100",
+			"skill_boost_mk",
+			"combat",
+			"DropWeapon",
+			"OnAttacked",
+			"onhitotherfn",
+			"random",
+			"5",
+			"2",
+			"jgb_s",
+			"fireeye_boost_mk",
+			"skill_boost_mk",
+			"bigpeach",
+			"xzhat_mk",
+			"override",
+			"stackable",
+			"form",
+			"impa",
+			"setloco",
+			"light",
+			"hit",
+			"doperi",
+			"mk_jgb",
+			"masterfn",
+			"peach",
+			"product",
+			"spawnpre",
+			"mk_t",
+			"vie",
+			"lootd",
+			"spawnpre",
+			"overri",
+			"@",
+			"ondonecooking",
+			"setpa",
+			"fac",
+			"set",
+			"eight",
+			"spawn",
+			"mod",
+			"pre",
+			"anims",
+			"setmu",
+			"setd",
+			"removeent",
+			"driver",
+			"pre",
+			"sanity",
+			"finden",
+			"targetpos",
+			"lotus",
+			"monkey_king_run",
+			"20",
+			"build",
+			"wagst",
+			"wag",
+			"aoeweapon_leap",
+			"sani",
+			"100",
+			"recha",
+			"OnFinished",
+			"100",
+			"101",
+			"99",
+			"onhit",
+			"CheckIsBossAsleep",
+			"shelf",
+			"print",
+			"prefab",
+			"burnt",
+			"fire",
+			"--@"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"blackbear",
+			"",
+			"MonkeyFriend",
+			"YamarajaManager",
+			"CloudDriver",
+			"BuffManager",
+			"fireeyeOL",
+			"monkeyking_mod_watermark"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scripts/prefabs/blackbear.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11419,
+								11427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 73.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/User/MyLua.sublime-build",
+	"project": "monkey.sublime-project",
+	"replace":
+	{
+		"height": 120.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sgbla",
+				"scripts/stategraphs/SGblackbear.lua"
+			],
+			[
+				"blac",
+				"scripts/prefabs/blackbear.lua"
+			],
+			[
+				"mkinglua",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"modm",
+				"modmain.lua"
+			],
+			[
+				"ski",
+				"modimport/skinutil.lua"
+			],
+			[
+				"skin",
+				"modimport/skinutil.lua"
+			],
+			[
+				"SGblackbear",
+				"scripts/stategraphs/SGblack_bear.lua"
+			],
+			[
+				"blbe",
+				"scripts/prefabs/blackbear.lua"
+			],
+			[
+				"sg",
+				"modimport/sg.lua"
+			],
+			[
+				"nzwh",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"nez",
+				"scripts/prefabs/neza.lua"
+			],
+			[
+				"nzweh",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"jgbs",
+				"scripts/prefabs/jgb_spawner.lua"
+			],
+			[
+				"jgb",
+				"scripts/prefabs/mk_jgb.lua"
+			],
+			[
+				"modin",
+				"modinfo.lua"
+			],
+			[
+				"mom",
+				"modmain.lua"
+			],
+			[
+				"pill",
+				"scripts/prefabs/mk_pills.lua"
+			],
+			[
+				"modinfo",
+				"modinfo.lua"
+			],
+			[
+				"nal",
+				"scripts/prefabs/nz_lance.lua"
+			],
+			[
+				"ui",
+				"modimport/ui.lua"
+			],
+			[
+				"nzlan",
+				"scripts/prefabs/nz_lance.lua"
+			],
+			[
+				"nz",
+				"scripts/prefabs/neza.lua"
+			],
+			[
+				"nzring",
+				"scripts/prefabs/nz_ring.lua"
+			],
+			[
+				"armor",
+				"scripts/prefabs/armors_mk.lua"
+			],
+			[
+				"nzwhl",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"nzri",
+				"scripts/prefabs/nz_ring.lua"
+			],
+			[
+				"nada",
+				"scripts/components/colouradder.lua"
+			],
+			[
+				"nzrn",
+				"scripts/prefabs/nz_ring.lua"
+			],
+			[
+				"mokekinglua",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"saplin",
+				"scripts/prefabs/peach_sapling.lua"
+			],
+			[
+				"peachtr",
+				"scripts/prefabs/peachtrees.lua"
+			],
+			[
+				"stewfu",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"mkch",
+				"scripts/speech_monkeyking_ch.lua"
+			],
+			[
+				"nzch",
+				"scripts/speech_neza_ch.lua"
+			],
+			[
+				"cp",
+				"modimport/component.lua"
+			],
+			[
+				"action",
+				"modimport/actions.lua"
+			],
+			[
+				"moinf",
+				"modinfo.lua"
+			],
+			[
+				"xzha",
+				"scripts/prefabs/xzhat_mk.lua"
+			],
+			[
+				"spmkch",
+				"scripts/speech_monkeyking_ch.lua"
+			],
+			[
+				"armo",
+				"scripts/prefabs/armors_mk.lua"
+			],
+			[
+				"aoes",
+				"scripts/components/aoespell.lua"
+			],
+			[
+				"spa",
+				"scripts/prefabs/jgb_spawner.lua"
+			],
+			[
+				"hat",
+				"scripts/prefabs/hat_mk.lua"
+			],
+			[
+				"mkjgb",
+				"scripts/prefabs/mk_jgb.lua"
+			],
+			[
+				"spwner",
+				"scripts/prefabs/jgb_spawner.lua"
+			],
+			[
+				"stewer",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"invbu",
+				"scripts/components/mk_invbuff_manager.lua"
+			],
+			[
+				"tree",
+				"scripts/prefabs/peachtrees.lua"
+			],
+			[
+				"spchna",
+				"scripts/speech_neza_ch.lua"
+			],
+			[
+				"mkkinglua",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"spawn",
+				"scripts/prefabs/jgb_spawner.lua"
+			],
+			[
+				"spna",
+				"scripts/speech_neza_ch.lua"
+			],
+			[
+				"spnz",
+				"scripts/speech_neza_ch.lua"
+			],
+			[
+				"spec",
+				"scripts/speech_monkeyking_ch.lua"
+			],
+			[
+				"speecm",
+				"scripts/speech_monkeyking_ch.lua"
+			],
+			[
+				"speech",
+				"scripts/speech_neza_ch.lua"
+			],
+			[
+				"modmain",
+				"modmain.lua"
+			],
+			[
+				"nwz",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"mkit",
+				"scripts/prefabs/mk_items.lua"
+			],
+			[
+				"stefu",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"alfu",
+				"scripts/prefabs/alchmy_fur.lua"
+			],
+			[
+				"xzh",
+				"scripts/prefabs/xzhat_mk.lua"
+			],
+			[
+				"ha",
+				"scripts/prefabs/hat_mk.lua"
+			],
+			[
+				"monkeyklua",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"food",
+				"scripts/prefabs/mk_foods.lua"
+			],
+			[
+				"fur",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"jgbr",
+				"scripts/prefabs/jgb_spawner.lua"
+			],
+			[
+				"xml",
+				"images/monkey_king_item.xml"
+			],
+			[
+				"mkkingi",
+				"images/monkey_king_item.xml"
+			],
+			[
+				"amonz",
+				"scripts/prefabs/armors_nz.lua"
+			],
+			[
+				"ste",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"nzr",
+				"scripts/prefabs/nz_ring.lua"
+			],
+			[
+				"nzl",
+				"scripts/prefabs/nz_lance.lua"
+			],
+			[
+				"neza",
+				"scripts/prefabs/neza.lua"
+			],
+			[
+				"stwfu",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"wheel",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"stewf",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"act",
+				"modimport/actions.lua"
+			],
+			[
+				"amronz",
+				"scripts/prefabs/armors_nz.lua"
+			],
+			[
+				"mon",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"foo",
+				"scripts/prefabs/mk_foods.lua"
+			],
+			[
+				"arnz",
+				"scripts/prefabs/armors_nz.lua"
+			],
+			[
+				"mit",
+				"scripts/prefabs/mk_items.lua"
+			],
+			[
+				"hatmk",
+				"scripts/prefabs/hat_mk.lua"
+			],
+			[
+				"armk",
+				"scripts/prefabs/armors_mk.lua"
+			],
+			[
+				"stefur",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"modma",
+				"modmain.lua"
+			],
+			[
+				"mkclo",
+				"scripts/prefabs/mk_cloud.lua"
+			],
+			[
+				"monnlua",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"mkstr",
+				"scripts/prefabs/mk_striker.lua"
+			],
+			[
+				"m",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"aoesp",
+				"scripts/components/aoespell.lua"
+			],
+			[
+				"ring",
+				"scripts/prefabs/nz_ring.lua"
+			],
+			[
+				"monk",
+				"scripts/prefabs/monkey_king.lua"
+			],
+			[
+				"nzwhee",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"mkcl",
+				"scripts/prefabs/mk_cloud.lua"
+			],
+			[
+				"armon",
+				"scripts/prefabs/armors_nz.lua"
+			],
+			[
+				"nzw",
+				"scripts/prefabs/nz_wheel.lua"
+			],
+			[
+				"mkfi",
+				"scripts/prefabs/mk_firefx.lua"
+			],
+			[
+				"al",
+				"scripts/prefabs/alchmy_fur.lua"
+			],
+			[
+				"armorn",
+				"scripts/prefabs/armors_nz.lua"
+			],
+			[
+				"nezalua",
+				"scripts/prefabs/neza.lua"
+			],
+			[
+				"modmai",
+				"modmain.lua"
+			],
+			[
+				"jgbsp",
+				"scripts/prefabs/jgb_spawner.lua"
+			],
+			[
+				"nar",
+				"scripts/prefabs/nz_ring.lua"
+			],
+			[
+				"nzlanc",
+				"scripts/prefabs/nz_lance.lua"
+			],
+			[
+				"sap",
+				"scripts/prefabs/peach_sapling.lua"
+			],
+			[
+				"comp",
+				"modimport/component.lua"
+			],
+			[
+				"mkjb",
+				"scripts/prefabs/mk_jgb.lua"
+			],
+			[
+				"armorm",
+				"scripts/prefabs/armors_mk.lua"
+			],
+			[
+				"armrn",
+				"scripts/prefabs/armors_nz.lua"
+			],
+			[
+				"compo",
+				"modimport/component.lua"
+			],
+			[
+				"mdm",
+				"modmain.lua"
+			],
+			[
+				"ptreelua",
+				"scripts/prefabs/peachtrees.lua"
+			],
+			[
+				"fof",
+				"scripts/prefabs/mk_foods.lua"
+			],
+			[
+				"armomk",
+				"scripts/prefabs/armors_mk.lua"
+			],
+			[
+				"cloufx",
+				"scripts/components/mk_cloudfxspawner.lua"
+			],
+			[
+				"com",
+				"modimport/component.lua"
+			],
+			[
+				"lanc",
+				"scripts/prefabs/nz_lance.lua"
+			],
+			[
+				"spwan",
+				"scripts/components/mk_cloudfxspawner.lua"
+			],
+			[
+				"mkclosp",
+				"scripts/components/mk_cloudfxspawner.lua"
+			],
+			[
+				"como",
+				"modimport/component.lua"
+			],
+			[
+				"mkj",
+				"scripts/prefabs/mk_jgb.lua"
+			],
+			[
+				"actio",
+				"modimport/actions.lua"
+			],
+			[
+				"clousp",
+				"scripts/components/mk_cloudfxspawner.lua"
+			],
+			[
+				"tew",
+				"scripts/components/stewer_fur.lua"
+			],
+			[
+				"odm",
+				"modmain.lua"
+			],
+			[
+				"moma",
+				"modmain.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 574.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

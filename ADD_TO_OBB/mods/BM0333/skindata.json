@@ -1,0 +1,23 @@
+[
+	{
+		"price": "4", 
+		"skin": "monkey_king_sea",
+		"abbr": "mk_sea",
+		"prefab": "monkey_king",
+		"build": "monkey_king_sea"
+	},
+
+	{
+		"price": "4",
+		"skin": "monkey_king_horse",
+		"abbr": "mk_horse",
+		"prefab": "monkey_king",
+		"build": "monkey_king_horse"
+	},
+
+	{
+		"skin": "monkey_king_none",
+		"prefab": "monkey_king",
+		"build": "monkey_king"
+	}
+]
