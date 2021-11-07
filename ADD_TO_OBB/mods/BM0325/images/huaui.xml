@@ -1,0 +1,27 @@
+<Atlas>
+	<Texture filename="huaui.tex" />
+    <Elements>
+        <Element name="arrow2_left.tex" u1="0" u2="0.1953125" v1="0.8046875" v2="1" />
+        <Element name="arrow2_left_down.tex" u1="0.1953125" u2="0.390625" v1="0.8046875" v2="1" />
+        <Element name="arrow2_left_over.tex" u1="0.390625" u2="0.5859375" v1="0.8046875" v2="1" />
+        <Element name="arrow2_right.tex" u1="0.5859375" u2="0.78125" v1="0.8046875" v2="1" />
+        <Element name="arrow2_right_down.tex" u1="0.78125" u2="0.9765625" v1="0.8046875" v2="1" />
+        <Element name="arrow2_right_over.tex" u1="0" u2="0.1953125" v1="0.609375" v2="0.8046875" />
+        <Element name="arrow_left_disabled.tex" u1="0.1953125" u2="0.390625" v1="0.609375" v2="0.8046875" />
+        <Element name="arrow_right_disabled.tex" u1="0.390625" u2="0.5859375" v1="0.609375" v2="0.8046875" />
+        <Element name="spinner_focus.tex" u1="0" u2="0.78125" v1="0.421875" v2="0.609375" />
+        <Element name="spinner_end_changing.tex" u1="0.78125" u2="0.90625" v1="0.484375" v2="0.609375" />
+        <Element name="spinner_end_focus.tex" u1="0" u2="0.125" v1="0.296875" v2="0.421875" />
+        <Element name="spinner_end.tex" u1="0.125" u2="0.25" v1="0.296875" v2="0.421875" />
+        <Element name="spinner_short.tex" u1="0.25" u2="0.3359375" v1="0.296875" v2="0.421875" />
+        <Element name="spinner_short_changing.tex" u1="0.3359375" u2="0.421875" v1="0.296875" v2="0.421875" />
+        <Element name="spinner_short_focus.tex" u1="0.421875" u2="0.5078125" v1="0.296875" v2="0.421875" />
+        <Element name="spin_arrow.tex" u1="0.5078125" u2="0.6328125" v1="0.296875" v2="0.421875" />
+        <Element name="spin_arrow_disabled.tex" u1="0.6328125" u2="0.7578125" v1="0.296875" v2="0.421875" />
+        <Element name="spin_arrow_down.tex" u1="0.7578125" u2="0.8828125" v1="0.296875" v2="0.421875" />
+        <Element name="spin_arrow_over.tex" u1="0" u2="0.125" v1="0.171875" v2="0.296875" />
+        <Element name="hua_button_halfshadow.tex" u1="0.125" u2="0.5449219" v1="0.1835938" v2="0.296875" />
+        <Element name="hua_button.tex" u1="0.5449219" u2="0.9648438" v1="0.1835938" v2="0.296875" />
+        <Element name="blank.tex" u1="0.9648438" u2="0.9726563" v1="0.2890625" v2="0.296875" />
+    </Elements>
+</Atlas>
